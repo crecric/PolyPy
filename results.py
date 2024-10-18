@@ -1,6 +1,6 @@
 import numpy as np
 import sys
-from mc_polymers import LatticePolymer, MonteCarloFactory, MonteCarlo
+from polypy import LatticePolymer, MonteCarloFactory, MonteCarlo
 import visualisation
 import matplotlib as mpl
 import matplotlib.pyplot as plt

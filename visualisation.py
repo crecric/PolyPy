@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-from mc_polymers import LatticePolymer, MonteCarlo
+from polypy import LatticePolymer, MonteCarlo
 
 def singPolyVisu3D(x, y, z):
 
